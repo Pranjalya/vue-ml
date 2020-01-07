@@ -8,4 +8,4 @@ npm install --save
 npm run serve
 
 ## Notes
-For Sentiment Analysis, VADER has been used. It gives agood result for chat based texts. It also processes emoticons and smilies, which makes it useful for social media text analysis.
+For Sentiment Analysis, VADER has been used. It gives a good result for chat based texts. It also processes emoticons and smilies, which makes it useful for social media text analysis.
