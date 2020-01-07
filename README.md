@@ -9,3 +9,6 @@ npm run serve
 
 ## Notes
 For Sentiment Analysis, VADER has been used. It gives a good result for chat based texts. It also processes emoticons and smilies, which makes it useful for social media text analysis.
+
+> This branch contains Chat sentiment analysis for demo purposes.
+> Another branch with fully functional chat with remote database will be added soon.
